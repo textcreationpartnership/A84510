@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Warwickes glorious victory over fifty ships of the King of Denmarkes in the narrow seas. Report thereof being made to the House of Commons by a merchant of London, that came lately from Norway. With an order from the House of Commons to the Earle of Warwicke, that one and fifty ships should be strongly prepared with 500 pieces of ordnance. Also how many hundred thousand pounds the charge of the Navy hath amounted unto, raised out of the bill of tonnage and poundage, and what the King hath received out of the same bill. And how the Earle of Stamford, the Lord Ratham, and Sir Arthur Haslerigg executed the militia in Leicestershire. Lastly the totall summe of the money sent by the Parliament to Munster and Dublin in Ireland. I. B. Cler. P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84510</idno>
+            <idno type="STC">Wing E85</idno>
+            <idno type="STC">Thomason E150_26</idno>
+            <idno type="STC">ESTC R22193</idno>
+            <idno type="EEBO-CITATION">99871648</idno>
+            <idno type="PROQUEST">99871648</idno>
+            <idno type="VID">156760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156760)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E150[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Warwickes glorious victory over fifty ships of the King of Denmarkes in the narrow seas. Report thereof being made to the House of Commons by a merchant of London, that came lately from Norway. With an order from the House of Commons to the Earle of Warwicke, that one and fifty ships should be strongly prepared with 500 pieces of ordnance. Also how many hundred thousand pounds the charge of the Navy hath amounted unto, raised out of the bill of tonnage and poundage, and what the King hath received out of the same bill. And how the Earle of Stamford, the Lord Ratham, and Sir Arthur Haslerigg executed the militia in Leicestershire. Lastly the totall summe of the money sent by the Parliament to Munster and Dublin in Ireland. I. B. Cler. P.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 15. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hesilrige, Arthur, --  Sir, d. 1661 --  Early works to 1800.</term>
+               <term>Rutham, --  Lord --  Early works to 1800.</term>
+               <term>Stamford, Henry Grey, --  Earl of, 1599?-1673 --  Early works to 1800.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>Naval battles --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156760:1"/>
+            <pb facs="tcp:156760:1" rendition="simple:additions"/>
+            <p>THE Earle of Warwickes GLORIOVS VICTORY Over fifty Ships of the King of <hi>Denmarkes</hi> in the Narrow Seas. Report thereof being made to the Houſe of Com<g ref="char:EOLhyphen"/>mons by a Merchant of <hi>London,</hi> that came lately from <hi>Norway.</hi> With an Order from the Houſe of Commons to the Earle of <hi>Warwicke,</hi> that one and fifty Ships ſhould be ſtrongly prepared with 500 pieces of Ordnance. Alſo how many hundred thouſand pounds the Charge of the Navy hath amounted unto, raiſed out of the Bill of Tonnage and Poundage, and what the King hath received out of the ſame Bill. And how the Earle of <hi>Stamford,</hi> the Lord <hi>Rutham</hi> and Sir <hi>Arthur Haſterigg</hi> executed the <hi>Militia</hi> in <hi>Leiceſterſhire.</hi> Laſtly the totall ſumme of the money ſent by the Parlia<g ref="char:EOLhyphen"/>ment to <hi>Munſter</hi> and <hi>Dublin</hi> in <hi>Ireland. I. B. Cler. P.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Horton. June</hi> 15. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156760:2"/>
+            <pb facs="tcp:156760:2"/>
+            <head>The Earle of War<g ref="char:EOLhyphen"/>wicks great Victory over 50. Ships of the King of <hi>Denmarkes</hi> in the Narrow-Seas.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He King of <hi>Den<g ref="char:EOLhyphen"/>marke</hi> under<g ref="char:EOLhyphen"/>ſtanding by the manifold infor<g ref="char:EOLhyphen"/>mation of ma<g ref="char:EOLhyphen"/>ny, that his Bro<g ref="char:EOLhyphen"/>ther the King of great <hi>Brit<g ref="char:EOLhyphen"/>taine</hi> was diſu<g ref="char:EOLhyphen"/>nited from the Parliament, and his in<g ref="char:EOLhyphen"/>dignation being highly incenſed, that he was reſolved to make Warre againſt his great Councell, and Supream Court,
+<pb facs="tcp:156760:3"/> began to aſſemble his Subjects, deſiring their aſſiſtance to ayd his Brother in the intended Warre. And after great debate, and conſultation thereabout, hee concluded immediatly to prepare certain Ships for <hi>England.</hi> The number of thoſe ſhips which the King of <hi>Den<g ref="char:EOLhyphen"/>marke</hi> had in preparation, were 100, and 50. of them already fitted on Sea, conducting with them in the ſaid ſhips many Horſes and Hay, as the informa<g ref="char:EOLhyphen"/>tion thereof was reported to the houſe of Commons by a Merchant, that was lately come from <hi>Norway.</hi> Whereupon the Houſe of Commons without any further procraſtination or detraction of any longer time Ordered incontinent<g ref="char:EOLhyphen"/>ly, that information ſhould be ſent withall expedition to the Earle of <hi>War<g ref="char:EOLhyphen"/>wicke,</hi> Lord Generall for the Sea, deſi<g ref="char:EOLhyphen"/>ring him to be very vigilant and care<g ref="char:EOLhyphen"/>full at Sea, leaſt any ſuddaine and un<g ref="char:EOLhyphen"/>expected invaſion might ruſh in upon the Kingdome.</p>
+            <pb facs="tcp:156760:3"/>
+            <p>Wherefore as ſoone as the Earle of <hi>Warwicke</hi> had received this particular intention from the Parliament, he pre<g ref="char:EOLhyphen"/>ſently ſet all the ſhips in readineſſe, and began to be very cautious, ſetting ſtreight watch every night, leaſt unawares the <hi>Denmarks</hi> by ſome policy or Stratagem might invade the Land by night.</p>
+            <p>The ninth day of this preſent moneth the <hi>Denmarkes</hi> appeared in the Nar<g ref="char:EOLhyphen"/>row Seas ſuperbiouſly, comming to <hi>England</hi> with fifty ſhips loaden with great ſtore of Ammunition, Horſe and Hay, but as ſoone as the Earle of <hi>War<g ref="char:EOLhyphen"/>wicke</hi> perceived his ſineſter intents, he went againſt him with one and twen<g ref="char:EOLhyphen"/>ty ſhips, and moſt valiantly with an undanted courage let off thirty pieces of Ordnance againſt the <hi>Denmarke,</hi> fol<g ref="char:EOLhyphen"/>lowing very couragiouſly, inſomuch that he made them almoſt recant, and turne Sayle The <hi>Demarks</hi> on the other ſide be<g ref="char:EOLhyphen"/>haved themſelves bravely at the firſt encounter, and gave the Engliſh above
+<pb facs="tcp:156760:4"/> threeſcore and ten ſhootes, which had beene ſufficient to have ſunke ſome of our ſhips, but that they were placed ſo wiſely, and craftily, that wee had a great advantage of them, becauſe we had the Wind withall on our ſide. And the Lord Generall had regulated the ſhips in ſuch an equall way, that at the ſecond diſcharge they were compelled to turne Sayle and fly, but two of theſe Ships were taken; wherein there was found great ſtore of Ammunition, and the reſt eſcaped by flight.</p>
+            <p>If we conſider how <hi>Arminianiſme</hi> was diffuſed in the Church, and ſince the Parliament how many obſtructions and pernicious obſtacles have beene layd to interrupt their aſſiduous pro<g ref="char:EOLhyphen"/>ceedings: all which if they be with mature deliberation ſeriouſly conſide<g ref="char:EOLhyphen"/>red, we ſhall with facility and appa<g ref="char:EOLhyphen"/>rent and perſpicuous demonſtrations perceive the wonderfull mercies of Al<g ref="char:EOLhyphen"/>mighty God towards us. For which
+<pb facs="tcp:156760:4"/> we are bound in duty towards God to magnifie his holy and omnipotent Name, fortheir is nothing more odious and deteſtable to God then ungrati<g ref="char:EOLhyphen"/>tude, for it is a wicked inſtrument, that oftentimes cauſeth God to divert and turne away his bleſsings to a Na<g ref="char:EOLhyphen"/>tion. Therefore above all things let us be ſure to embrace gratitude, and offer it as an Oblation and auſpitious Sacri<g ref="char:EOLhyphen"/>fice to God, glorifying him for all theſe mercies, and withall ſo beſeeching in our ſupplications, that he would preſerve and defend the Parliament from the malignity of all ill-diſpoſed people.</p>
+            <p>The Parliament have ſince moſt diſ<g ref="char:EOLhyphen"/>creetly, and judiciouſly Ordered, That a great charge of the State of the Kings Ships ſhould be forthwith taken. And withall by their appointment, the Na<g ref="char:EOLhyphen"/>vy at Sea is made wonderfull ſtrong. For there is one and fifty ſhips under the Earle of <hi>Warwicks</hi> Command, with
+<pb facs="tcp:156760:5"/> five hundred pieces of Ordnance, and ſet out with ſuch Ammunition, and proviſions of Armes, as hath not been ſeen, and knowne the like for number, and ſtrength ſent out by any Prince in this Kingdome by force.</p>
+            <p>The Charge whereof hath amounted to 300000 pounds which hath beene raiſed out of the Bill for Tonnage and Poundage. And alſo the King hath re<g ref="char:EOLhyphen"/>ceived 100000 pound out of the bene<g ref="char:EOLhyphen"/>fit of the ſame Bill ſince May was twelve Moneths.</p>
+            <p>The Earle of <hi>Stamford,</hi> the Lord <hi>Ru<g ref="char:EOLhyphen"/>tham,</hi> and Sir <hi>Arthur Haſlerigg</hi> were ap<g ref="char:EOLhyphen"/>pointed by the Parliament to ſee the <hi>Militia</hi> put in execution in <hi>Leiceſter<g ref="char:EOLhyphen"/>ſhire.</hi>
+            </p>
+            <p>The Houſe of Commons Ordered alſo that there ſhould be 10000 pound preſently ſent to <hi>Munſter</hi> in <hi>Ireland,</hi> and 6000 pound to <hi>Dublin</hi> to pay the Souldiers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
